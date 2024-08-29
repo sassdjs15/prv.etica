@@ -1,0 +1,24 @@
+body{
+    background-color: #f3e3d3;
+}
+
+h1{
+     color: #9b6b40;
+    text-align: center  
+    }
+
+    h3{
+        color:#8e5331 ;
+        text-align: center;
+    }
+
+    #txt{
+        color: #2c1c0c;
+    }
+
+    img{
+        display: block;
+  margin: 0 auto;
+  max-width: 5%; 
+  height: auto;
+    }
